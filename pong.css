@@ -1,0 +1,30 @@
+#container {
+	width: 700px;
+	height: 500px;
+	background: black;
+	position: relative;
+}
+#ball {
+	width: 10px;
+	height: 10px;
+	background: white;
+	position: absolute;
+}
+
+#bat1 {
+	width: 10px;
+	height: 60px;
+	background: white;
+	position: absolute;
+}
+
+#bat2 {
+	width: 10px;
+	height: 60px;
+	background: white;
+	position: absolute;
+}
+
+body {
+	background-color: #555555;
+}
